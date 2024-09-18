@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @czsding40925
-- 👀 I’m interested in applying math to neuroscience and applying neuroscience to math. 
+- 👀 I’m interested in data compression, diffusion models, and information theory.
 - 🌱 I’m currently an MS EE student @ Stanford 
-- 💞️ I’m looking to collaborate on any cool computational neuroscience projects. 
+- 💞️ I’m looking to collaborate on any cool compression/diffusion/information theory projects. 
 - 📫 How to reach me: czsding@stanford.edu
 
 <!---
